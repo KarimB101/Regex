@@ -50,4 +50,4 @@ href[https://coding-boot-camp.github.io/full-stack/computer-science/regex-tutori
 
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+This Gist was made by Karim Baptiste a student software developer and link to my GitHub can can be found here href[https://github.com/KarimB101].
